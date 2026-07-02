@@ -35,12 +35,11 @@ The project was developed in Python as part of a university course on Experiment
 ---
 
 ## Project Structure
-source/
-results/
-student_data/
-report.pdf
-README.md
-
+- source/
+- results/
+- student_data/
+- report.pdf
+- README.md
 
 ---
 
